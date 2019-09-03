@@ -37,7 +37,7 @@
   },
   "homepage": "https://github.com/lukechilds/keyv-sql",
   "dependencies": {
-    "node-sql-2": "^0.78.0"
+    "node-sql-2": "0.78.0"
   },
   "devDependencies": {
     "ava": "^2.2.0",
